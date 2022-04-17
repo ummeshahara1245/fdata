@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Tart Pecan Pie",
+        "price": "400",
+        "description": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
+        "img": "https://149410494.v2.pressablecdn.com/wp-content/uploads/2020/03/pecan-pie-tart-in-baking-dish-traditional-festive-9WMXQ3Z-1024x573.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Greek Gyro",
+        "price": "300",
+        "description": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
+        "img": "https://149410494.v2.pressablecdn.com/wp-content/uploads/2020/03/greek-gyros-on-a-pita-bread-PNSV8HL-1024x648.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Tomahawk Steak",
+        "price": "350",
+        "description": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
+        "img": "https://img.youtube.com/vi/gVgq_bSOH2U/hqdefault.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Tofu and Cheese Pancakes",
+        "price": "580",
+        "description": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
+        "img": "https://149410494.v2.pressablecdn.com/wp-content/uploads/2020/03/vegan-tofu-baked-cheese-pancakes-with-mango-2GBH46C-1024x683.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Chinese Veggie Stir Fry        ",
+        "price": "700",
+        "description": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
+        "img": "https://149410494.v2.pressablecdn.com/wp-content/uploads/2020/03/cooked-vegetables-according-to-chinese-recipe-PN2GKUB-1024x684.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Raspberry Tartlet",
+        "price": "300",
+        "description": "LA handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
+        "img": "https://149410494.v2.pressablecdn.com/wp-content/uploads/2020/03/raspberry-tartlet-dessert-with-almond-flakes-34Z9TYK-1024x683.jpg"
+    }
+]
